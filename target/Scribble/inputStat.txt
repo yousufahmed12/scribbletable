@@ -1,0 +1,9 @@
+Level				17
+Title:				Hero
+Agility:			            30
+Durability:			242
+Mana:				3
+Mind:				3
+Strength:			10
+Remaining Points:		10
+Gift:				Sour Apples
